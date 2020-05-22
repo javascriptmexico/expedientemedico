@@ -2,7 +2,7 @@
   "name": "cv",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://javascriptmexico.github.io/subastasdelsur",
+  "homepage": "https://javascriptmexico.github.io/expedientemedico",
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
