@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/subastasdelsur/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/subastasdelsur/static/js/main.6c225521.chunk.js",
+    "main.js.map": "/subastasdelsur/static/js/main.6c225521.chunk.js.map",
+    "runtime-main.js": "/subastasdelsur/static/js/runtime-main.19241457.js",
+    "runtime-main.js.map": "/subastasdelsur/static/js/runtime-main.19241457.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/subastasdelsur/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.12ce9a5e.chunk.js": "/subastasdelsur/static/js/2.12ce9a5e.chunk.js",
+    "static/js/2.12ce9a5e.chunk.js.map": "/subastasdelsur/static/js/2.12ce9a5e.chunk.js.map",
+    "index.html": "/subastasdelsur/index.html",
+    "precache-manifest.f3c01ed2158b4ff55aab5247bbb11920.js": "/subastasdelsur/precache-manifest.f3c01ed2158b4ff55aab5247bbb11920.js",
+    "service-worker.js": "/subastasdelsur/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/subastasdelsur/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/subastasdelsur/static/css/main.27fd15f6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19241457.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.12ce9a5e.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.6c225521.chunk.js"
+  ]
+}
