@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: 'Jost', Arial, sans-serif;
+  font-weight: 900;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Jost', Arial, sans-serif;
+  font-weight: 900;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+h2 {
+  font-size: 3em;
+}
+
+.btn {
+  text-align: center;
+  padding: 10px;
+  background: #05347c;
+  color: #ffffff;
+  border-radius: 0;
+  width: 90%;
+  margin: 3px;
+  transition: all 1s;
+}
+
+.btn:hover {
+  background: #0e5ccf;
+  color: #ffffff;
+}
